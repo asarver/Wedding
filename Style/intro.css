@@ -1,0 +1,44 @@
+<style type="text/css">
+
+body {
+  color: black;
+  background-color: #FFFFFF;}
+	
+#intro {
+  color: black;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	background-image: url(../Resources/floppy_disk.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+	
+#intro img.intro_img {
+  position: relative;
+	top: 70%;
+}
+
+#main_top, #main {
+  width: 70%;
+	margin-left: 15%;
+}
+
+#main_top {
+  color: black;
+	text-align: center;
+	height: 200px;
+	background-image: url(../Resources/floppy_background.png);
+	background-repeat: no-repeat;
+	background-position: center-left;
+	background-color: #ffffff;
+}
+
+#main {
+  color: white;
+	height: auto;
+	text-align: center;
+	background-color: #000000;
+}
+</style>
