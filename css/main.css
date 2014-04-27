@@ -56,6 +56,7 @@ img.bg {
 	display: inline-block;
 	vertical-align: top;
 	text-align: left;
+	height: auto;
 }
 
 #baughman_map, #hipp_map {
