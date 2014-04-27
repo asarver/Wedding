@@ -52,15 +52,9 @@ img.bg {
 
 #elements {
 	width: 40%;
-  margin: 15px;
+  margin: 15px	;
 	display: inline-block;
 	vertical-align: top;
 	text-align: left;
 	height: auto;
-}
-
-#baughman_map, #hipp_map {
-    width: 400px;
-    height: 300px;
-    background-color: #CCC;
 }
