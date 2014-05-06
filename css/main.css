@@ -27,14 +27,13 @@ img.bg {
 	font-weight: bold;
 }
 
-#links a:link,a:visited {
+a:link,a:visited {
 	color: #FFFFFF;
 	text-decoration: none;
-	text-transform: uppercase;
 	padding-right: 10px;
 }
 
-#links a:hover {
+a:hover {
 	color: #000000;
 	text-decoration: none;
 }
