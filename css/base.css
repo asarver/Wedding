@@ -78,11 +78,6 @@ body {
   font-size: 24px;
 }
 
-.section iframe {
-  margin: 20px;
-  float: right;
-}
-
 .place-image {
   background-repeat: no-repeat;
   background-size: cover;
@@ -156,7 +151,7 @@ body {
 #ourstory>.details>p {
   font-size: 18px;
   font-family: 'Raleway', sans-serif; 
-  margin: 40px 20px;
+  margin: 20px 20px;
 
   padding: 40px;
   color: #535252;
@@ -196,14 +191,17 @@ body {
   font-family: 'Pacifico', cursive;
 }
 
+.details {
+  padding: 20px;
+}
+
 .shops {
-  margin: 20px 50px;
   text-align: center;
 }
 
 .shops a {
   text-decoration: none;
-  padding: 40px;
+  padding: 0 40px;
 }
 i {
   color: rgb(116, 230, 116);
