@@ -103,7 +103,7 @@ body {
 
 .place-image p {
   width: 940px;
-  background-color: rgba(23, 29, 22, 0.7);
+  background-color: rgba(23, 29, 22, 0.75);
   color: white;
   position: absolute;
   left: 0;
@@ -133,6 +133,10 @@ body {
   background-color: #F4B350;
 }
 
+#registry {
+  background-color: #E08283;
+}
+
 #ourstory {
   background-color: #8ad2de;
 }
@@ -143,6 +147,10 @@ body {
 
 #invites {
   background-image: url(../img/invitations.jpg);
+}
+
+#gifts {
+  background-image: url(../img/cash.jpg);
 }
 
 #ourstory>.details>p {
@@ -186,4 +194,17 @@ body {
   padding-bottom: 15px;
   font-size: 20px;
   font-family: 'Pacifico', cursive;
+}
+
+.shops {
+  margin: 20px 50px;
+  text-align: center;
+}
+
+.shops a {
+  text-decoration: none;
+  padding: 40px;
+}
+i {
+  color: rgb(116, 230, 116);
 }
