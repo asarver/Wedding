@@ -72,8 +72,12 @@ body {
   margin-bottom: 20px;
 }
 
+.section-small {
+  height: 590px;
+}
+
 /* Section Header */
-.section > h1 {
+.section > h1, .section-small > h1 {
   line-height: 70px;
   text-align: center;
   color: white;
@@ -115,6 +119,15 @@ body {
 /* Section Details */
 .details {
   padding: 20px;
+}
+
+/* Welcome Section */
+#welcome {
+  background-color: #8ad2de;
+}
+
+.bridgeimg {
+  background-image: url(../img/bridge.png);
 }
 
 /* Ceremony Section */
